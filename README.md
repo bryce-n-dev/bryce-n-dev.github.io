@@ -1,7 +1,5 @@
 [![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)](https://gohugo.io/)
 
-<br />
-
 <!-- PROJECT LOGO -->
 <div align="center">
   <img src="static/images/profile.png" alt="Logo" width="80" height="80">
@@ -11,8 +9,6 @@
     Personal site built with the (massive) help of Hugo.
   </p>
 </div>
-
-<br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
