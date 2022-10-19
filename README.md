@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A cornerstone of any software developer is a personal website. I will be using this site to summarize my projects, as well as documenting anything I find interesting in a blog format.
+A cornerstone project of any software developer is a personal website. I will be using this site to summarize my projects, as well as documenting anything I find interesting in a blog format.
 
 <!-- GETTING STARTED -->
 ## Getting Started
