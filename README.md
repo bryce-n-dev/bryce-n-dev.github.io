@@ -18,7 +18,7 @@ A cornerstone project of any software developer is a personal website. I will be
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To run locally for development purposes, run the code below.
+To run locally for development purposes, execute the commands below.
 
 ```sh
 brew install hugo
